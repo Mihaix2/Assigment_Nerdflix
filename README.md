@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Nerdflix
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Had some problems in using the imdb-top-50.json so I used the api of an online database (found documentation online), every movie from the imdb-top-50.json "are in the movie database"
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs the necessary modules and dependencies. 
 
 ### `npm start`
 
