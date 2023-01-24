@@ -1,7 +1,7 @@
 # Nerdflix
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Had some problems in using the imdb-top-50.json so I used the api of an online database (found documentation online), every movie from the imdb-top-50.json "are in the movie database"
+Had some problems in using the imdb-top-50.json so I used the api of an online database (found documentation online), every movie from the imdb-top-50.json are in "the movie database"
 
 ## Available Scripts
 
